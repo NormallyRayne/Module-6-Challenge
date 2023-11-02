@@ -31,7 +31,7 @@ Rick Collett - https://github.com/NormallyRayne
 ## Features
 
 Website
-![image] /Users/ricksmacbookair/Documents/Development/School /Module-6-Challenge/assets/images/Weather Dashboard.png
+![image](https://github.com/NormallyRayne/Module-6-Challenge/blob/main/assets/images/Weather%20Dashboard%20.png)
 
 
 ## How to Contribute
