@@ -17,7 +17,7 @@ N/A
 
 ## Usage
 
-Here is the link to deployed page: []
+Here is the link to deployed page:(https://normallyrayne.github.io/Module-6-Challenge/)
 
 ## Credits
 
